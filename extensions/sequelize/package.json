@@ -1,7 +1,7 @@
 {
   "name": "@loopback/sequelize",
   "description": "Loopback 4 Extension That Provides Sequelize Crud Repository Compatible With Default Loopback Models.",
-  "version": "0.7.3",
+  "version": "0.7.3-mssql-patch",
   "keywords": [
     "loopback-extension",
     "loopback",
